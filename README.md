@@ -121,7 +121,7 @@
 ## Sheet 1 — Customer Age by ID (Bar Chart)
 ![Sheet 1 Bar Chart](assets/exp7_image2.png)
 
-## Sheet 2 — Customer Data (Scatter / Overview)
+## Sheet 2 — Customer Data Overview
 ![Sheet 2](assets/exp7_image3.png)
 
 ## Sheet 3 — Age & Income by Customer ID
@@ -140,17 +140,27 @@
 ## Sheet 1 — Performance vs Years of Service (Scatter Plot)
 ![Sheet 1 Scatter Plot](assets/exp8_image2.png)
 
-## Sheet 3 — Performance by Employee ID (Bar Chart)
-![Sheet 3 Bar Chart](assets/exp8_image3.png)
+## Sheet 2 — Performance by Employee ID (Bar Chart)
+![Sheet 2 Bar Chart](assets/exp8_image3.png)
 
 ## Dashboard — Combined View
 ![Dashboard](assets/exp8_image4.png)
 
 ---
 
-# Experiment 9: (No Data Available)
+# Experiment 9: Online Learning Activity Analysis — R Programming
 
-> ⚠️ File 9 could not be read — no images were found in the uploaded document.
+## Worksheet / Aim
+![Experiment 9 Worksheet](assets/exp9_image1.png)
+
+## Bar Chart — Quiz Score by Course (R)
+![Bar Chart Quiz Score by Course](assets/exp9_image2.png)
+
+## Histogram — Distribution of Quiz Scores (R)
+![Histogram Quiz Scores](assets/exp9_image3.png)
+
+## Line Chart — Average Quiz Score per Month (R)
+![Line Chart Avg Quiz Score per Month](assets/exp9_image4.png)
 
 ---
 
@@ -170,3 +180,98 @@
 
 ## Dashboard — Combined View
 ![Dashboard](assets/exp10_image5.png)
+
+---
+
+# Experiment 11: Product Category Sales Analysis — Tableau Bar, Pie & Dashboard
+
+## Worksheet / Aim
+![Experiment 11 Worksheet](assets/exp11_image1.png)
+
+## Sheet 1 — Category Overview (Table View)
+![Sheet 1 Table](assets/exp11_image2.png)
+
+## Sheet 2 — Bar Chart: Sales by Category
+![Sheet 2 Bar Chart](assets/exp11_image3.png)
+
+## Sheet 3 — Pie Chart: Category Distribution
+![Sheet 3 Pie Chart](assets/exp11_image5.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp11_image4.png)
+
+---
+
+# Experiment 12: Website Traffic Analysis — Tableau Line Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 12 Worksheet](assets/exp12_image1.png)
+
+## Sheet 1 — Traffic by Year (Bar Chart)
+![Sheet 1 Bar Chart](assets/exp12_image2.png)
+
+## Sheet 2 — Click-through Rate by Day (Line Chart)
+![Sheet 2 Line Chart](assets/exp12_image3.png)
+
+## Sheet 3 — CTR by Year (Combined Chart)
+![Sheet 3 Combined](assets/exp12_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp12_image5.png)
+
+---
+
+# Experiment 13: Geographic Data Analysis — Tableau Map, Scatter Plot & Dashboard
+
+## Worksheet / Aim
+![Experiment 13 Worksheet](assets/exp13_image1.png)
+
+## Sheet 1 — Geographic Map: Cities by Location
+![Sheet 1 Map](assets/exp13_image2.png)
+
+## Sheet 2 — Scatter Plot: Population vs Avg Temperature by City
+![Sheet 2 Scatter Plot](assets/exp13_image3.png)
+
+## Sheet 3 — Combined: Population, Temperature & Elevation by City
+![Sheet 3 Combined](assets/exp13_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp13_image5.png)
+
+---
+
+# Experiment 14: Survey Response Analysis — Tableau Bar Chart, Treemap & Dashboard
+
+## Worksheet / Aim
+![Experiment 14 Worksheet](assets/exp14_image1.png)
+
+## Sheet 1 — Respondents by Question 1 (Bar Chart)
+![Sheet 1 Bar Chart](assets/exp14_image2.png)
+
+## Sheet 2 — Treemap: Question Distribution
+![Sheet 2 Treemap](assets/exp14_image3.png)
+
+## Sheet 3 — Respondent Count Overview
+![Sheet 3](assets/exp14_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp14_image5.png)
+
+---
+
+# Experiment 15: Product Sales Comparison — Tableau Grouped Bar, Stacked Bar & Dashboard
+
+## Worksheet / Aim
+![Experiment 15 Worksheet](assets/exp15_image1.png)
+
+## Sheet 1 — Grouped Bar Chart: Sales by Product & Month
+![Sheet 1 Grouped Bar](assets/exp15_image2.png)
+
+## Sheet 2 — Stacked Bar Chart: Sales by Product
+![Sheet 2 Stacked Bar](assets/exp15_image3.png)
+
+## Sheet 3 — Combined Bar Chart: Sales Breakdown
+![Sheet 3 Combined](assets/exp15_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp15_image5.png)
