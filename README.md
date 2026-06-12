@@ -91,3 +91,82 @@
 
 ## Sheet View — Web Analytics Data
 ![Sheet View](assets/exp5_image4.png)
+
+---
+
+# Experiment 6: Product Sales Analysis — Tableau Bar Chart, Line Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 6 Worksheet](assets/exp6_image1.png)
+
+## Sheet 1 — Product Name vs Sales (Table View)
+![Sheet 1](assets/exp6_image2.png)
+
+## Sheet 2 — Bar Chart: Sales by Product
+![Sheet 2 Bar Chart](assets/exp6_image3.png)
+
+## Sheet 3 — Line Chart: Sales Trend by Product
+![Sheet 3 Line Chart](assets/exp6_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp6_image5.png)
+
+---
+
+# Experiment 7: Customer Demographics Analysis — Tableau Bar Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 7 Worksheet](assets/exp7_image1.png)
+
+## Sheet 1 — Customer Age by ID (Bar Chart)
+![Sheet 1 Bar Chart](assets/exp7_image2.png)
+
+## Sheet 2 — Customer Data (Scatter / Overview)
+![Sheet 2](assets/exp7_image3.png)
+
+## Sheet 3 — Age & Income by Customer ID
+![Sheet 3](assets/exp7_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp7_image5.png)
+
+---
+
+# Experiment 8: Employee Performance Analysis — Tableau Scatter Plot & Dashboard
+
+## Worksheet / Aim
+![Experiment 8 Worksheet](assets/exp8_image1.png)
+
+## Sheet 1 — Performance vs Years of Service (Scatter Plot)
+![Sheet 1 Scatter Plot](assets/exp8_image2.png)
+
+## Sheet 3 — Performance by Employee ID (Bar Chart)
+![Sheet 3 Bar Chart](assets/exp8_image3.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp8_image4.png)
+
+---
+
+# Experiment 9: (No Data Available)
+
+> ⚠️ File 9 could not be read — no images were found in the uploaded document.
+
+---
+
+# Experiment 10: Survey Response Analysis — Tableau Bar Chart, Heat Map & Dashboard
+
+## Worksheet / Aim
+![Experiment 10 Worksheet](assets/exp10_image1.png)
+
+## Sheet 1 — Survey Count by Question 1 (Bar Chart)
+![Sheet 1 Bar Chart](assets/exp10_image2.png)
+
+## Sheet 2 — Heat Map: Measure Values by Question 3
+![Sheet 2 Heat Map](assets/exp10_image3.png)
+
+## Sheet 3 — Survey Data Table View
+![Sheet 3 Table](assets/exp10_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp10_image5.png)
