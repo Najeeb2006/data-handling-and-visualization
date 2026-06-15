@@ -275,3 +275,98 @@
 
 ## Dashboard — Combined View
 ![Dashboard](assets/exp15_image5.png)
+
+---
+
+# Experiment 16: Customer Demographic Analysis — Tableau Bar Chart, Pie Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 16 Worksheet](assets/exp16_image1.png)
+
+## Sheet 1 — Bar Chart: Age by Customer ID
+![Sheet 1 Bar Chart](assets/exp16_image2.png)
+
+## Sheet 2 — Pie Chart: Gender Distribution
+![Sheet 2 Pie Chart](assets/exp16_image3.png)
+
+## Sheet 3 — Gender by Customer ID (Text Table)
+![Sheet 3 Text Table](assets/exp16_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp16_image5.png)
+
+---
+
+# Experiment 17: Sales Performance Analysis — Tableau Bar Chart, Line Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 17 Worksheet](assets/exp17_image1.png)
+
+## Sheet 1 — Bar Chart: Sales by Product
+![Sheet 1 Bar Chart](assets/exp17_image2.png)
+
+## Sheet 2 — Line Chart: Sales Trend
+![Sheet 2 Line Chart](assets/exp17_image3.png)
+
+## Sheet 3 — Combined: Sales Overview
+![Sheet 3 Combined](assets/exp17_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp17_image5.png)
+
+---
+
+# Experiment 18: Student Grade Analysis — Tableau Bar Chart, Scatter Plot & Dashboard
+
+## Worksheet / Aim
+![Experiment 18 Worksheet](assets/exp18_image1.png)
+
+## Sheet 1 — Bar Chart: Grades by Student
+![Sheet 1 Bar Chart](assets/exp18_image2.png)
+
+## Sheet 2 — Scatter Plot: Score Distribution
+![Sheet 2 Scatter Plot](assets/exp18_image3.png)
+
+## Sheet 3 — Combined Grade Overview
+![Sheet 3 Combined](assets/exp18_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp18_image5.png)
+
+---
+
+# Experiment 19: Hospital Patient Data Analysis — Tableau Bar Chart, Pie Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 19 Worksheet](assets/exp19_image1.png)
+
+## Sheet 1 — Bar Chart: Patients by Department
+![Sheet 1 Bar Chart](assets/exp19_image2.png)
+
+## Sheet 2 — Pie Chart: Diagnosis Distribution
+![Sheet 2 Pie Chart](assets/exp19_image3.png)
+
+## Sheet 3 — Patient Data Table
+![Sheet 3 Table](assets/exp19_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp19_image5.png)
+
+---
+
+# Experiment 20: Financial Expense Tracking — Tableau Bar Chart, Pie Chart & Dashboard
+
+## Worksheet / Aim
+![Experiment 20 Worksheet](assets/exp20_image1.png)
+
+## Sheet 1 — Bar Chart: Expenses by Category
+![Sheet 1 Bar Chart](assets/exp20_image2.png)
+
+## Sheet 2 — Pie Chart: Expense Distribution
+![Sheet 2 Pie Chart](assets/exp20_image3.png)
+
+## Sheet 3 — Expense Summary Table
+![Sheet 3 Table](assets/exp20_image4.png)
+
+## Dashboard — Combined View
+![Dashboard](assets/exp20_image5.png)
