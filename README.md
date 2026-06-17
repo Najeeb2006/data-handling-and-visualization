@@ -370,3 +370,101 @@
 
 ## Dashboard — Combined View
 ![Dashboard](assets/exp20_image5.png)
+
+---
+
+# Experiment 21: Energy Consumption Analysis — R Histogram, Bar Chart & Visualizations
+
+## Worksheet / Aim
+![Experiment 21 Worksheet](assets/exp21_image1.png)
+
+## R Console & Histogram of Units Consumed
+![R Console & Histogram](assets/exp21_image2.png)
+
+## Density / Distribution Plot
+![Density Plot](assets/exp21_image3.png)
+
+## Average Renewable Usage by Sector
+![Average Renewable Usage](assets/exp21_image4.png)
+
+## Bar Chart — Average Units by Sector
+![Bar Chart Output](assets/exp21_image5.png)
+
+---
+
+# Experiment 22: Monthly Sales Trend Analysis — R Line Chart & Scatter Plot
+
+## Worksheet / Aim
+![Experiment 22 Worksheet](assets/exp22_image1.png)
+
+## R Console & Monthly Sales Trend (Line Chart)
+![Monthly Sales Trend](assets/exp22_image2.png)
+
+## Scatter Plot — Advertising vs Sales
+![Scatter Plot](assets/exp22_image3.png)
+
+## Advertising vs Sales (Detailed View)
+![Advertising vs Sales](assets/exp22_image4.png)
+
+## Line Chart — Final Output
+![Line Chart Final](assets/exp22_image5.png)
+
+---
+
+# Experiment 23: Employee Distribution Analysis — R Bar Chart, Scatter Plot & Tableau Dashboard
+
+## Worksheet / Aim
+![Experiment 23 Worksheet](assets/exp23_image1.png)
+
+## R Console & Sales Distribution
+![R Console Sales Distribution](assets/exp23_image2.png)
+
+## Employee Distribution by Department
+![Employee Distribution](assets/exp23_image3.png)
+
+## Department Distribution vs Service vs Performance
+![Department Distribution](assets/exp23_image4.png)
+
+## Employee Performance Table
+![Performance Table](assets/exp23_image5.png)
+
+## Tableau Dashboard — BAR & SCATTER
+![Tableau Dashboard](assets/exp23_image6.png)
+
+---
+
+# Experiment 24: Product Inventory Analysis — R Bar Chart & Stacked Bar Chart
+
+## Worksheet / Aim
+![Experiment 24 Worksheet](assets/exp24_image1.png)
+
+## R Console & Product Quantity Bar Chart
+![Product Quantity Bar Chart](assets/exp24_image2.png)
+
+## Stacked Bar Chart — Stock vs Sold
+![Stacked Bar Chart](assets/exp24_image3.png)
+
+## R Console — Product Data Table
+![Product Data Table](assets/exp24_image4.png)
+
+## Stacked Chart Final Output
+![Stacked Chart Final](assets/exp24_image5.png)
+
+---
+
+# Experiment 25: Web Analytics — R Scatter Plot, CTR Analysis & Stacked Area Chart
+
+## Worksheet / Aim
+![Experiment 25 Worksheet](assets/exp25_image1.png)
+
+## R Console & Price vs Quantity Scatter Plot
+![Price vs Quantity](assets/exp25_image2.png)
+
+## Top 3 Days with Highest CTR
+![Top CTR Days](assets/exp25_image3.png)
+
+## User Interactions — Stacked Area Chart
+![Stacked Area Chart](assets/exp25_image4.png)
+
+## Line Chart Final Output
+![Line Chart Final](assets/exp25_image5.png)
