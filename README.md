@@ -468,3 +468,98 @@
 
 ## Line Chart Final Output
 ![Line Chart Final](assets/exp25_image5.png)
+
+---
+
+# Experiment 26: Student Performance Analysis — R Histogram, Scatter Plot & Bar Charts
+
+## Worksheet / Aim
+![Experiment 26 Worksheet](assets/exp26_image1.png)
+
+## Histogram — Score Distribution by Gender
+![Histogram Score Distribution](assets/exp26_image2.png)
+
+## Scatter Plot — Study Hours vs Math Score (by Gender)
+![Scatter Plot Study Hours vs Math Score](assets/exp26_image3.png)
+
+## Scatter Plot — Study Hours vs Science Score (by Gender)
+![Scatter Plot Study Hours vs Science Score](assets/exp26_image4.png)
+
+## Bar Chart — Science Score by Gender
+![Bar Chart Science Score by Gender](assets/exp26_image5.png)
+
+---
+
+# Experiment 27: Patient Health Risk Analysis — R Scatterplot Matrix, ECDF & Heatmap
+
+## Worksheet / Aim
+![Experiment 27 Worksheet](assets/exp27_image1.png)
+
+## Scatterplot Matrix — Health Indicators
+![Scatterplot Matrix](assets/exp27_image2.png)
+
+## ECDF Plot — Cumulative Distribution
+![ECDF Plot](assets/exp27_image3.png)
+
+## Bar Chart — Average Health Indicators
+![Average Health Indicators](assets/exp27_image4.png)
+
+## Heatmap — Patient Health Risk
+![Heatmap Patient Health Risk](assets/exp27_image5.png)
+
+---
+
+# Experiment 28: Vehicle Performance Analysis — R Boxplot, Scatter Plot & Correlation Heatmap
+
+## Worksheet / Aim
+![Experiment 28 Worksheet](assets/exp28_image1.png)
+
+## Boxplot — Fuel Efficiency by Safety Rating
+![Boxplot Fuel Efficiency](assets/exp28_image2.png)
+
+## Scatter Plot — Fuel Efficiency vs Safety Rating
+![Scatter Plot Fuel Efficiency](assets/exp28_image3.png)
+
+## Correlation Heatmap — Vehicle Metrics
+![Correlation Heatmap](assets/exp28_image4.png)
+
+## Scatter Plot — Horsepower vs Top Speed
+![Horsepower vs Top Speed](assets/exp28_image5.png)
+
+---
+
+# Experiment 29: Student Attendance & Score Analysis — R Stacked Area, Box Plot & Filtering
+
+## Worksheet / Aim
+![Experiment 29 Worksheet](assets/exp29_image1.png)
+
+## Stacked Area Chart — Score Distribution
+![Stacked Area Chart](assets/exp29_image2.png)
+
+## Box Plot — Study Hours by Attendance Quartiles
+![Box Plot Study Hours](assets/exp29_image3.png)
+
+## Study Hours by Attendance Quartiles (Detailed)
+![Attendance Quartiles Detail](assets/exp29_image4.png)
+
+## Scatter Plot — Study Hours vs Test Score (Filtered by Age)
+![Filtered Scatter Plot](assets/exp29_image5.png)
+
+---
+
+# Experiment 30: Screen Time & App Usage Analysis — R Histogram, Scatter Plot & Bubble Chart
+
+## Worksheet / Aim
+![Experiment 30 Worksheet](assets/exp30_image1.png)
+
+## Histogram — Screen Time Distribution
+![Screen Time Distribution](assets/exp30_image2.png)
+
+## Line/Scatter Plot — Data Used vs Screen Time
+![Data Used vs Screen Time](assets/exp30_image3.png)
+
+## Scatter Plot — Average Satisfaction by Gender
+![Avg Satisfaction by Gender](assets/exp30_image4.png)
+
+## Bubble Chart — Screen Time vs Data Used (App Usage)
+![Bubble Chart App Usage](assets/exp30_image5.png)
